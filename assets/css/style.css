@@ -239,7 +239,7 @@ footer{
 }
 
 footer span{
-  color: #a3c704;
+  color: var(--light-color);
   font-weight: bold;
 }
 
